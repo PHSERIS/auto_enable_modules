@@ -1,0 +1,21 @@
+{
+	"name": "Auto Enable External Modules From Project Template",
+
+	"namespace": "PHSMGB\\ss_extmods",
+
+	"authors": [
+		{
+			"name": "Ed Morales",
+			"email": "EMORALES@BWH.HARVARD.EDU",
+			"institution": "Mass General Brigham"
+		}
+	],
+
+	"permissions": [
+		"redcap_every_page_top",
+		"redcap_user_rights"
+	],
+
+	"description": "Self service for auto-enabling External Modules from a project template along with the module configuration setting values."
+
+}

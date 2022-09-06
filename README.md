@@ -1,6 +1,6 @@
 ## Auto Enable External Modules From Project Template
 
-Self service for auto-enabling External Modules from a project template along with the module's configuration setting values.
+Self service for auto-enabling External Modules from a project template along with the module's configuration setting values .
 
 ### Getting started
 The module doesn't require any configuration at the project level. Its only function it to assign the modules enabled on the project template onto this newly created project. The module must be enabled globally so it can automatically enable modules on a project created from a project template. In fact, the former is the recommended use-case.
